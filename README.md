@@ -58,8 +58,6 @@ pip install -r requirements.txt
 
 ### 4. Set up your Local Ollama model 
 
-## 🧠 Setting Up Ollama Models Locally
-
 Ollama enables you to run open-source large language models (LLMs) directly on your machine. Follow these steps to get started:
 
 ### 1. Install Ollama
