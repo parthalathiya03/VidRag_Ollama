@@ -24,6 +24,19 @@ git clone https://github.com/parthalathiya03/VidRag_Ollama.git
 cd VidRag_Ollama
 ```
 
+
+## Project Structure
+
+```
+VidRag_Ollama/
+├── main.py               # Entry point for the voice AI agent
+├── rag_pipeline.py       # Local RAG pipeline for document retrieval
+├── docs/                 # Folder containing .txt documents for RAG
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+```
+
+
 ### 2. Create and activate a virtual environment
 
 ```bash
@@ -109,18 +122,6 @@ Automatic Fallback: Seamlessly switches to Ollama's base knowledge when no relev
 Transparent Source Attribution: Always shows whether answer came from documents or base LLM
 Best of Both Worlds: Combines local knowledge with general AI capabilities
 
----
-
-## Project Structure
-
-```
-VidRag_Ollama/
-├── main.py               # Entry point for the voice AI agent
-├── rag_pipeline.py       # Local RAG pipeline for document retrieval
-├── docs/                 # Folder containing .txt documents for RAG
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
-```
 
 ---
 
