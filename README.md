@@ -29,11 +29,10 @@ cd VidRag_Ollama
 
 ```
 VidRag_Ollama/
-├── app.py               # Entry point for the voice AI agent
+├── app.py                # Entry point for the voice AI agent
 ├── rag_pipeline.py       # Local RAG pipeline for document retrieval
-├── docs/
-├── models/ 
-├── scripts/                # Folder containing .txt documents for RAG
+├── docs/                 # Folder containing .txt documents for RAG
+├── scripts/                
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
