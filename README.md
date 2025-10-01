@@ -76,7 +76,7 @@ ollama run <model-name>
 
 ```bash
 streamlit app.py
-
+```
 Open the browser URL shown in the console to interact with the agent.
 
 ---
