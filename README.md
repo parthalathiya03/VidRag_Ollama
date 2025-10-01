@@ -48,29 +48,13 @@ Or, if you have a `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-### 4. Set up your API keys
+### 4. Set up your Local Ollama model 
 
-Create a `.env` file in the project root:
-
-```env
-DEEPGRAM_API_KEY="Your Deepgram API Key"
-OPENAI_API_KEY="Your OpenAI API Key"
-ELEVENLABS_API_KEY="Your ElevenLabs API Key"
-VIDEOSDK_AUTH_TOKEN="Your VideoSDK Auth token"
-```
-
----
 
 ## Running the Voice Agent
 
 ```bash
-python main.py
-```
-
-Optionally, run in console mode:
-
-```bash
-python main.py console
+streamlit app.py
 ```
 
 Open the browser URL shown in the console to interact with the agent.
@@ -79,10 +63,10 @@ Open the browser URL shown in the console to interact with the agent.
 
 ## How it Works
 
-### 1. User Speech Input (STT)
+### 1. User Speech Input & Text as well (STT)
 
 - Users speak into their microphone.
-- **DeepgramSTT** converts speech to text.
+- speech_recognition converts speech to text.
 - Text is sent to the RAG pipeline or fallback LLM.
 
 ### 2. RAG Query Processing
@@ -90,7 +74,7 @@ Open the browser URL shown in the console to interact with the agent.
 - Local `.txt` documents in `docs/` are split into chunks with **LangChain RecursiveCharacterTextSplitter**.
 - Chunks are embedded using **HuggingFace Sentence Transformers**.
 - FAISS retrieves the most relevant chunks.
-- If no relevant docs, **GPT-4o** generates the response.
+- If no relevant docs, **Ollama** generates the response.
 
 ### 3. Response Generation
 
@@ -103,12 +87,27 @@ Open the browser URL shown in the console to interact with the agent.
 - Users hear the response in real-time.
 
 ### 5. Features
+🎤 Multi-Modal Input
 
-- End-to-end voice interaction: **STT → RAG → TTS**
-- Real-time logging of queries and responses
-- Local document knowledge retrieval
-- Fallback to GPT-4o for unknown queries
-- Smooth conversation flow with entry, message, and exit handling
+Voice Input: Speak naturally using Deepgram's speech-to-text API
+Text Input: Type your questions as an alternative option
+Adjustable Recording: Configure recording duration (3-10 seconds)
+Real-time Transcription: Instant conversion of speech to text
+
+🧠 Intelligent RAG (Retrieval-Augmented Generation)
+
+Local Document Indexing: Automatically indexes all .txt files in your docs/ folder
+Semantic Search: Uses sentence-transformers for contextual understanding
+FAISS Vector Store: Lightning-fast similarity search through documents
+Smart Context Retrieval: Finds the most relevant information from your knowledge base
+Similarity Threshold: Configurable threshold to determine document relevance
+
+🔄 Intelligent Fallback System
+
+Context-Aware Responses: When relevant documents are found, answers are grounded in your knowledge base
+Automatic Fallback: Seamlessly switches to Ollama's base knowledge when no relevant documents exist
+Transparent Source Attribution: Always shows whether answer came from documents or base LLM
+Best of Both Worlds: Combines local knowledge with general AI capabilities
 
 ---
 
