@@ -72,11 +72,10 @@ ollama pull <model-name>
 ollama run <model-name>
 
 
-## Running the Voice Agent
+### 5. Running the Voice Agent
 
 ```bash
 streamlit app.py
-```
 
 Open the browser URL shown in the console to interact with the agent.
 
