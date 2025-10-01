@@ -1,6 +1,6 @@
 # 🎙️ VidRag_Ollama: Voice RAG AI Agent
 
-A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **VideoSDK Agents SDK**. Users can ask questions through speech, and the agent responds using local knowledge or falls back to GPT-4o.
+A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ollama**. Users can ask questions through speech, and the agent responds using local knowledge or falls back to GPT-4o.
 
 ---
 
