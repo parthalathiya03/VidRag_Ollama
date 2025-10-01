@@ -53,12 +53,6 @@ venv\Scripts\activate
 ### 3. Install dependencies
 
 ```bash
-pip install "videosdk-agents[deepgram,openai,elevenlabs,silero,turn_detector]"
-```
-
-Or, if you have a `requirements.txt`:
-
-```bash
 pip install -r requirements.txt
 ```
 
