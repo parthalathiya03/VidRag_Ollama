@@ -1,0 +1,502 @@
+# Petpooja - Complete Company Briefing
+
+## Company Overview
+
+Petpooja is India's leading restaurant management software platform that provides all-in-one cloud-based POS (Point of Sale) solutions to streamline operations for small and medium-sized businesses in the food and beverage industry. The company offers comprehensive software solutions for restaurant billing, inventory management, online ordering, and all front and back-of-house management modules.
+
+**Tagline:** "All-in-One Software Powering SME Growth At Every Step"
+
+**Legal Entity:** Prayosha Food Services Pvt. Ltd.
+
+---
+
+## Company Foundation & History
+
+- **Founded:** 2011
+- **Founders:** 
+  - **Parthiv Patel** (Co-Founder & CEO)
+  - **Apurv Patel** (Co-Founder & CSO - Chief Strategy Officer)
+- **Headquarters:** Ahmedabad, Gujarat, India
+- **Years in Operation:** 14+ years (as of 2025)
+- **Employee Count:** 1,784 employees (as of August 2025)
+
+### The Origin Story
+
+**2011 - The Beginning:**
+Parthiv and Apurv were college friends who pursued different careers after graduation. Parthiv worked in Finance while Apurv worked for a leading IT MNC in India. They coincidentally met in Ahmedabad and reconnected over their shared love for food. This sparked the idea of starting something in the food industry.
+
+Petpooja initially started as a **corporate food delivery service** in 2011, acting as a middle-man to deliver large bulk orders of corporate meals from partner restaurants. Within 2 years, they were serving over 200 corporates in Ahmedabad and had partnered with 300+ restaurants.
+
+**2014 - The Pivot:**
+During their delivery service operations, Parthiv and Apurv realized the business was operationally intensive. They had to manually place orders, follow up constantly, manage billing, and track deliveries. This made them realize that these mundane tasks were a daily struggle for all restaurant operators, leading to increasing restaurant shutdowns.
+
+In 2014, they **realigned their mission** to provide technological solutions to automate repetitive tasks, giving restaurant owners more time to focus on customer service and business growth. They secured seed funding from friends and family and started building the Petpooja POS software.
+
+**Key Growth Milestones:**
+- Started operations from a one-room office
+- Initial team of 2 grew to 200 by 2019
+- Grew to 600+ employees by 2021
+- Currently 1,784 employees (2025)
+
+---
+
+## Mission & Vision
+
+**Mission:** To streamline the unorganized sector of the food industry in India, which comprises various SMBs and makes up around 90% of revenue contribution in the Indian restaurant segment.
+
+**Vision:** To be the de-facto Operating System for all SMBs in the Food and Beverage Industry globally.
+
+**Core Philosophy:** "Simplicity meets excellence" - Automating mundane and repetitive tasks to give restaurant owners more time to focus on customer service and business growth.
+
+---
+
+## Funding & Investors
+
+### Total Funding Raised
+- **$11 Million** total funding over 7 rounds from 32 investors (as per Tracxn)
+- **$10.6 Million** (as per PitchBook)
+- **$21.9 Million+** (as per Inc42)
+
+### Funding Rounds:
+
+**Series A (2019):**
+- Amount: $2 Million
+- Lead Investor: Udaan
+- Purpose: To upgrade POS with more features and develop advanced products
+
+**Series B (November 15, 2021):**
+- Amount: $4.5 Million
+- Investors: Aroa Ventures, Udaan, GVFL (Gujarat Venture Finance Limited)
+- Purpose: To revolutionize the restaurant-tech industry and scale operations globally
+
+**Latest Round (October 11, 2023):**
+- Amount: $3.12 Million
+- Lead Investor: Dharana Capital
+- Total raised in this round: $15.4 Million (as per some reports)
+
+### Key Investors:
+1. Gujarat Venture Finance Limited (GVFL)
+2. Aroa Venture Partners
+3. Udaan
+4. Dharana Capital
+5. Trustroots
+6. Desai Ventures (Mayur Desai)
+7. Digicorp (Consulting Services)
+8. Plus 24 other investors
+
+---
+
+## Financial Performance
+
+### Latest Financials (as of March 31, 2024):
+- **Annual Revenue:** ₹77.2 Crore (approximately $9.3 Million USD)
+- **Latest Valuation:** ₹614 Crore (approximately $74 Million USD) as of November 9, 2023
+- **Revenue Growth:** Growing year-over-year
+- **Alternative Revenue Estimate:** $188.2 Million (as per GrowJo - may include broader metrics)
+
+### Revenue Model:
+- **Subscription Fees:** Monthly/annual subscription for POS software
+- **Fee-For-Service:** Additional services and features
+- **Hardware Sales:** POS hardware and peripherals
+- **Integration Fees:** Third-party integration services
+
+---
+
+## Core Products & Ecosystem
+
+### 1. **Petpooja POS (Point of Sale System)**
+The flagship product - an all-rounder solution designed to drive restaurant growth, supporting all types of food service outlets.
+
+**Key Features:**
+- Restaurant billing and invoicing
+- Kitchen Order Tickets (KOT) management
+- Menu management and customization
+- Table management
+- Order management (dine-in, takeaway, delivery)
+- Multi-outlet management
+- Cash and card payment processing
+- Real-time synchronization across devices
+- Offline mode capability
+- User-friendly interface
+
+**Pricing:** "At the price of a cup of tea for one day!" - Industry-low, transparent pricing
+
+### 2. **Petpooja Invoice**
+GST billing and inventory management solution for B2B and retail businesses, designed to provide real-time insights.
+
+**Features:**
+- GST-compliant billing
+- Inventory tracking and management
+- Purchase order management
+- Vendor management
+- Real-time reports generation
+- Barcode scanning
+- Multi-location support
+
+### 3. **Petpooja Payroll**
+Complete solution for easy attendance tracking, simplified payroll management, and leave monitoring system.
+
+**Features:**
+- Attendance tracking
+- Automated payroll processing
+- Leave management system
+- Employee database
+- Salary slip generation
+- Tax calculations
+- Performance tracking
+
+### 4. **Petpooja Purchase**
+Digitize invoices and manage payables by taking pictures of invoices.
+
+**Features:**
+- Invoice digitization through photo capture
+- Automated data extraction
+- Payables management
+- Supplier tracking
+- Expense categorization
+- Payment reminders
+
+### 5. **Petpooja Tasks**
+Assign, supervise, and verify tasks with downloadable reports, simplify complex processes, and ensure consistency.
+
+**Features:**
+- Task assignment and delegation
+- Progress tracking
+- Task verification
+- Downloadable reports
+- Process standardization
+- Team collaboration
+
+### 6. **Advanced Products & Innovations**
+- **Kiosk:** Self-service ordering kiosks for restaurants
+- **Voice-Ordering Kiosk:** AI-enabled voice-activated ordering
+- **FoodBot:** A robot designed to carry out serving tasks of a waiter
+- **Scan-Order-Pay:** Contactless ordering and payment solution
+- **Petpooja Restaurant Analytics Insights:** Advanced data analytics
+- **SMS Service:** Customer communication via SMS
+- **Online Order Reconciliation:** Automated reconciliation of online orders
+- **Suppliers Hub:** Centralized supplier management
+
+---
+
+## Key Features & Capabilities
+
+### Comprehensive Restaurant Management:
+- **Menu Management:** Upload and update menus across platforms
+- **Online Order Management:** Integration with food delivery platforms
+- **Inventory Tracking:** Real-time inventory monitoring
+- **CRM Solutions:** Customer relationship management
+- **Kitchen Staff Management:** Staff scheduling and performance tracking
+- **Reporting & Analytics:** Real-time sales reports, cash summaries, biller-wise reports
+- **Multi-location Support:** Manage multiple outlets from single dashboard
+- **Online Payment Integration:** Multiple payment gateway support
+- **Delivery Tracking:** Track delivery orders in real-time
+- **Discount Management:** Create and manage promotional offers
+- **Loyalty Programs:** Customer loyalty and rewards programs
+- **Gift Card Management:** Gift card processing and tracking
+- **Labor Cost Reporting:** Track and optimize labor costs
+
+### Integration Ecosystem:
+**200+ Third-Party Integrations** including:
+- **Food Delivery Platforms:** Zomato, Swiggy, Uber Eats, Dunzo
+- **Payment Gateways:** Paytm, PhonePe, Google Pay, and more
+- **Accounting Software:** Tally integration
+- **E-commerce Platforms:** Various online ordering platforms
+- **Marketing Tools:** SMS, WhatsApp, email marketing
+- **Aggregator Platforms:** Multiple food aggregator integrations
+
+---
+
+## Market Performance & Scale
+
+### Current Statistics (2025):
+- **100,000+ Businesses** trust Petpooja globally
+- **50,000+ Active Clients** (as per LinkedIn)
+- **14+ Years** of excellence in the industry
+- **0% Processing Errors** - High reliability and accuracy
+- **1,784 Employees** and growing
+- **Global Presence:** India, UAE, and South Africa
+
+### Notable Clients:
+Petpooja serves major restaurant chains and brands including:
+- Havmor
+- Jumboking
+- Apsara
+- TGI Friday's (TGIF)
+- The Beer Cafe
+- Thalappakatti
+- LaPinoz Pizza
+- Hocco
+- Chicago Pizza
+- Beer Cafe
+- And 100,000+ other restaurants
+
+### Geographic Expansion:
+- **Primary Market:** India (all major cities)
+- **International Markets:** UAE, South Africa
+- **Serving:** Single-standing outlets to chains with over 200 outlets
+
+---
+
+## COVID-19 Response & Innovation
+
+### Impact (2020):
+During the COVID-19 pandemic, the restaurant sector took a major hit in India. With long lockdowns and stringent delivery parameters, restaurant churn rates increased exponentially. Petpooja also suffered setbacks in operations and revenues.
+
+### Recovery & Innovation:
+Despite challenges, Petpooja's passionate team steered through the crisis and launched vital features to help restaurants recover:
+
+**COVID-Recovery Features:**
+1. **Scan-Order-Pay:** Contactless ordering and payment
+2. **Voice-Ordering Kiosk:** Touchless ordering system
+3. **Enhanced Analytics:** Better business insights
+4. **SMS Service:** Direct customer communication
+5. **Online Order Reconciliation:** Automated order management
+6. **Suppliers Hub:** Streamlined supplier management
+
+These features proved extremely helpful for restaurants across India to cope with COVID losses more effectively.
+
+---
+
+## Competitive Landscape
+
+### Main Competitors:
+1. **UrbanPiper** - Venture Capital-Backed
+2. **Toast** (International)
+3. **Lavu** (International)
+4. **DotPe**
+5. **LimeTray**
+6. **Belly** (Business/Productivity Software)
+7. **SpotOn**
+
+**Total Competitors:** 605+ in the restaurant technology space
+
+### Competitive Advantages:
+1. **Largest Market Share:** India's No.1 Restaurant Management Software
+2. **Deep Integration:** 200+ third-party integrations
+3. **Affordable Pricing:** Industry-low, transparent pricing models
+4. **Local Expertise:** Built for Indian market with global capabilities
+5. **Comprehensive Suite:** All-in-one platform vs. point solutions
+6. **Strong Customer Support:** 24×7 support team
+7. **Innovation Focus:** Continuous product development and updates
+
+---
+
+## Company Culture & Values
+
+### Core Values:
+1. **Simplicity:** User-centric design with creative interfaces
+2. **Excellence:** Best-in-class products in every aspect
+3. **Continuous Innovation:** Regular updates with new features
+4. **Transparency:** Clear and honest pricing models
+5. **Customer-First:** 24×7 dedicated support team
+
+### Work Culture:
+- **Humble Beginnings:** Started from a one-room office, maintaining humble work culture
+- **Visionary Leadership:** Founders believe in long-term vision over short-term milestones
+- **Passionate Team:** Team that believes in the mission and yearns to achieve it
+- **Growth-Oriented:** Rapid team expansion from 2 to 1,784 employees
+- **Innovation-Driven:** Encouraged creativity and problem-solving
+
+---
+
+## Technology & Infrastructure
+
+### Platform Architecture:
+- **Cloud-Based:** Fully cloud-based SaaS platform
+- **Multi-Device Support:** Works on POS terminals, tablets, smartphones
+- **Offline Capability:** Continues functioning during internet outages
+- **Real-Time Sync:** Instant synchronization across all devices
+- **Scalable Infrastructure:** Handles single outlets to 200+ outlet chains
+
+### Security & Compliance:
+- **Data Security:** Enterprise-grade security measures
+- **GST Compliance:** Fully compliant with Indian GST regulations
+- **Payment Security:** PCI-DSS compliant payment processing
+- **Data Backup:** Regular automated backups
+- **Access Controls:** Role-based permission system
+
+---
+
+## Customer Support & Service
+
+### Support Infrastructure:
+- **24×7 Support:** Round-the-clock customer support
+- **Multiple Channels:** Phone (+91-7969223344), Email (support@petpooja.com)
+- **On-Site Support:** Available for critical issues
+- **Training Programs:** Comprehensive onboarding and training
+- **Knowledge Base:** Extensive documentation and tutorials
+- **Community Forum:** Peer-to-peer support
+
+### Customer Success:
+- Dedicated account managers for large clients
+- Regular check-ins and performance reviews
+- Proactive feature recommendations
+- Training for new employees
+- Custom solutions for unique requirements
+
+---
+
+## Industry Recognition & Trust
+
+### Market Position:
+- **India's No.1** Restaurant Management Software
+- **Trusted by 100,000+ businesses** globally
+- **23,860+ LinkedIn followers**
+- **14,427+ Facebook likes**
+- **High Customer Ratings:** Positive reviews across platforms
+
+### Website Traffic:
+According to company sources, in terms of website traffic in India, "only GST and IRCTC are ahead of us" - indicating massive user engagement and market penetration.
+
+---
+
+## Strategic Focus & Future Direction
+
+### Current Focus Areas:
+1. **Global Expansion:** Scaling operations beyond India, UAE, and South Africa
+2. **AI Integration:** Developing AI-enabled features and automation
+3. **Product Innovation:** Continuous enhancement of existing products
+4. **Market Penetration:** Capturing more of the 90% unorganized F&B segment
+5. **Enterprise Solutions:** Scaling to serve larger restaurant chains
+
+### Future Vision:
+Petpooja aims to be the de-facto Operating System for all SMBs in the Food and Beverage Industry globally, continuing to deliver best-in-class products and services while expanding their technological capabilities.
+
+### Innovation Pipeline:
+- Advanced AI-powered features
+- Enhanced analytics and predictive insights
+- Robotics integration (FoodBot expansion)
+- Voice technology improvements
+- Expanded international integrations
+
+---
+
+## Why Businesses Choose Petpooja
+
+### Key Selling Points:
+
+1. **Comprehensive Solution:**
+   - All-in-one platform covering every restaurant need
+   - No need for multiple software vendors
+
+2. **Ease of Use:**
+   - Intuitive interface with minimal training required
+   - Quick onboarding process
+   - User-friendly for all staff levels
+
+3. **Affordability:**
+   - Transparent, industry-low pricing
+   - No hidden costs
+   - Excellent ROI for SMBs
+
+4. **Integration Ecosystem:**
+   - 200+ integrations covering all major platforms
+   - Seamless data flow between systems
+   - One-stop solution for all tech needs
+
+5. **Reliability:**
+   - 0% processing errors
+   - 99.9%+ uptime
+   - Proven track record with 100,000+ businesses
+
+6. **Local Expertise:**
+   - Built specifically for Indian market
+   - Understands local business challenges
+   - GST-compliant from day one
+
+7. **Continuous Innovation:**
+   - Regular feature updates
+   - Responsive to market needs
+   - Future-proof technology
+
+8. **Exceptional Support:**
+   - 24×7 customer support
+   - Quick resolution times
+   - Proactive assistance
+
+---
+
+## Use Cases & Industry Applications
+
+### Restaurant Types Served:
+1. **Quick Service Restaurants (QSR):** Fast-food chains and outlets
+2. **Fine Dining:** Upscale restaurants with complex requirements
+3. **Cafes & Coffee Shops:** Casual dining establishments
+4. **Cloud Kitchens:** Delivery-only operations
+5. **Food Courts:** Multiple vendors in single location
+6. **Bars & Pubs:** Liquor-serving establishments
+7. **Bakeries:** Specialized bakery operations
+8. **Sweet Shops:** Traditional Indian sweet shops
+9. **Ice Cream Parlors:** Dessert-focused outlets
+10. **Multi-Outlet Chains:** Chains with 2 to 200+ locations
+
+### Business Size:
+- **Small Businesses:** Single outlet operations
+- **Medium Enterprises:** 2-10 outlet chains
+- **Large Enterprises:** 10-200+ outlet chains
+
+---
+
+## Contact & Resources
+
+- **Website:** https://www.petpooja.com/
+- **About Us:** https://www.petpooja.com/about-us
+- **Blog:** https://blog.petpooja.com/
+- **LinkedIn:** https://in.linkedin.com/company/petpooja-prayosha-food-service-pvt-ltd-
+- **Facebook:** https://www.facebook.com/PetpoojaPlatform/
+- **Support Phone:** +91-7969223344
+- **Support Email:** support@petpooja.com
+- **Headquarters:** Ahmedabad, Gujarat, India
+
+---
+
+## Key Statistics Summary
+
+| Metric | Value |
+|--------|-------|
+| **Founded** | 2011 |
+| **Headquarters** | Ahmedabad, Gujarat, India |
+| **Founders** | Parthiv Patel & Apurv Patel |
+| **Current CEO** | Parthiv Patel |
+| **Employees** | 1,784 (as of Aug 2025) |
+| **Total Funding** | $11M - $21.9M (various sources) |
+| **Latest Valuation** | ₹614 Crore (~$74M USD) |
+| **Annual Revenue** | ₹77.2 Crore (~$9.3M USD) |
+| **Active Clients** | 100,000+ businesses |
+| **Years Operating** | 14+ years |
+| **Countries** | 3 (India, UAE, South Africa) |
+| **Integrations** | 200+ third-party platforms |
+| **Support** | 24×7 availability |
+| **Processing Errors** | 0% |
+
+---
+
+## Founder Profiles
+
+### Parthiv Patel (Co-Founder & CEO)
+- Background in Finance
+- Vision-driven leader focused on long-term goals
+- Believes in seeing funding as stepping stones rather than major milestones
+- College friends with Apurv Patel
+- Led the pivot from delivery service to SaaS platform
+- Other ventures: Founded 1 other company
+
+### Apurv Patel (Co-Founder & CSO)
+- Background in IT (worked for leading IT MNC)
+- Chief Strategy Officer
+- Focus on product development and innovation
+- Technical expertise driving product excellence
+- Instrumental in developing advanced features like AI and robotics
+
+---
+
+## Summary
+
+Petpooja is India's leading restaurant management software company, founded in 2011 by Parthiv Patel and Apurv Patel in Ahmedabad, Gujarat. What started as a corporate food delivery service pivoted in 2014 to become a comprehensive cloud-based POS platform serving the food and beverage industry.
+
+With 14+ years of excellence, Petpooja has grown from a one-room office with 2 founders to a thriving company with 1,784 employees serving 100,000+ businesses across India, UAE, and South Africa. The company has raised between $11-21.9 million in funding from notable investors including Gujarat Venture Finance, Aroa Ventures, Udaan, and Dharana Capital, with a current valuation of ₹614 Crore (~$74M USD) and annual revenue of ₹77.2 Crore (~$9.3M USD).
+
+Petpooja offers an all-in-one ecosystem of products including POS, Invoice, Payroll, Purchase, and Tasks management solutions, integrated with 200+ third-party platforms including Zomato, Swiggy, Paytm, and Tally. The company is recognized for its industry-low transparent pricing, 24×7 support, continuous innovation, and 0% processing errors.
+
+From humble beginnings delivering corporate meals to becoming India's No.1 restaurant management platform, Petpooja's journey reflects its mission to streamline the unorganized 90% of India's F&B sector and vision to become the de-facto Operating System for SMBs in the Food and Beverage Industry globally. The company successfully navigated COVID-19 challenges by innovating contactless solutions and continues to lead with advanced technologies including AI, voice-enabled systems, and robotics.

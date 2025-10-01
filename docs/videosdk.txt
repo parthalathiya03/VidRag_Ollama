@@ -1,0 +1,203 @@
+# VideoSDK - Complete Company Briefing
+
+## Company Overview
+
+VideoSDK (legally operating as Zujo Tech Pvt. Ltd.) is a real-time communication technology company that provides developer tools and low-latency infrastructure to build, scale, and secure immersive live audio/video and AI communication applications.
+
+**Tagline:** "The easiest way to build powerful live audio & video apps"
+
+---
+
+## Company Foundation & History
+
+- **Founded:** 2019
+- **Founders:** 
+  - Arjun Kava (Founder and CEO)
+  - Sagar Kava (Co-founder)
+- **Headquarters:** Surat, Gujarat, India
+- **Legal Entity:** Zujo Tech Pvt. Ltd.
+
+### Company Background
+
+The idea for VideoSDK emerged while the founders were working on their previous venture, Zujo - a Social Learning Platform. Their research capabilities and experience allowed them to approach real-time communication challenges from a unique perspective, leading to the development of a robust live video infrastructure specifically designed for developers.
+
+---
+
+## Funding & Investors
+
+- **Total Funding Raised:** $1.2 Million (Seed Round)
+- **Lead Investor:** Gujarat Venture Finance
+- **Stage:** Seed-stage company
+- **Year of Seed Round:** Raised to build the world's most reliable live video infrastructure with Generative AI capabilities
+
+---
+
+## Mission & Vision
+
+**Mission:** To increase clients' app visibility and reach by providing end-to-end solutions in real-time communication technology.
+
+**Vision:** To serve developers with manageable and unmanageable services backed by quality support, making live video infrastructure accessible to every developer.
+
+---
+
+## Core Products & Services
+
+### 1. **Real-Time Video & Audio Communication**
+- Video calling APIs and SDKs
+- Audio calling APIs and SDKs
+- Interactive live streaming APIs and SDKs
+- Customizable video conferencing solutions
+
+### 2. **AI Voice Agents**
+- Embeddable AI voice agent solutions
+- Support for web, mobile, and telephony integration
+- AI-powered features for video calls using backend Python SDK
+- Natural language understanding and processing
+- Speech-to-Text (STT), Large Language Models (LLM), and Text-to-Speech (TTS) integration
+
+### 3. **Developer Tools**
+- Native SDKs for every platform (iOS, Android, Web, React Native, Flutter)
+- REST APIs for real-time functionality
+- Python SDK for AI-powered features
+- GitHub repository with practical code examples and samples
+- Token generation and authentication systems
+- Pre-meeting audio and video testing capabilities
+
+### 4. **Infrastructure Features**
+- Ultra-low latency global mesh network
+- 150ms worldwide latency
+- 99.99% uptime guarantee
+- 24/7 enterprise support
+- Deployment across 40+ countries
+- Session-level logs with global visibility
+
+---
+
+## Key Technology Capabilities
+
+### AI Voice Agent Framework
+VideoSDK offers a comprehensive framework for building AI voice agents with:
+- **Speech-to-Text (STT):** Converts spoken language into text
+- **Natural Language Understanding (NLU/LLM):** Interprets meaning of text
+- **Text-to-Speech (TTS):** Converts responses into natural-sounding speech
+- **Voice Activity Detection (VAD):** Detects when users are speaking
+- **Turn-taking Management:** Manages conversation flow
+
+### Supported AI Integrations
+- Google STT, LLM, and TTS
+- Custom plugins for extended capabilities
+- Cascading pipeline architecture for agent workflows
+
+---
+
+## Use Cases & Industry Applications
+
+### AI Voice Agent Use Cases:
+1. **Customer Service:** 24/7 automated customer support
+2. **BPO Operations:** Scaling business process outsourcing with AI
+3. **Healthcare:** Patient engagement and appointment scheduling
+4. **E-commerce:** Order processing and customer inquiries
+5. **Financial Services:** Account inquiries and transaction processing
+6. **Telephony Integration:** AI phone agents via SIP integration with providers like Twilio
+
+### Video Communication Use Cases:
+- Telehealth and telemedicine
+- Online education and e-learning
+- Remote work and collaboration
+- Customer service video calls
+- Interactive live streaming events
+- Virtual events and webinars
+
+---
+
+## Performance Metrics & Scale
+
+### Current Performance Statistics:
+- **20,000+** Active users
+- **100,000** Participants supported
+- **15,000** Total sessions completed
+- **428** Average sessions per day
+- **1 hour 59 minutes** Average session duration
+- **29,400** Total participants joined
+- **150ms** Worldwide latency
+- **40+** Countries served
+- **99.99%** Uptime
+
+---
+
+## Pricing & Developer Benefits
+
+- **Free Tier:** 10,000 minutes every month
+- **Pricing Model:** Simple pricing with volume discounts
+- **No Credit Card Required:** For initial signup
+- **Quick Start:** Start free in seconds
+
+---
+
+## Technical Infrastructure
+
+### Global Deployment
+- Deploy on global mesh network
+- Ultra-low latency infrastructure
+- High availability and redundancy
+- Enterprise-grade security and compliance
+
+### Developer-Friendly Features
+- Comprehensive documentation
+- Code examples and samples on GitHub
+- Meeting token generation and authentication
+- Pre-call device testing (audio/video settings)
+- Customizable video stream layouts
+- Session-level logging and analytics
+
+---
+
+## Market Position & Recognition
+
+- **Trusted by:** 300+ global business & tech leaders
+- **Active Competitors:** 605+ in the video communication space
+- **LinkedIn Following:** 1,553+ followers
+- **Category:** Real-time communication technology / Video SDK platform
+
+---
+
+## Customer Testimonial
+
+**Abdul Aziz, CTO at OkaDoc Healthcare:**
+"Exceptional experience with VideoSDK - superior solution, unmatched support, and transformative infrastructure, setting them apart from big names."
+
+---
+
+## Key Differentiators
+
+1. **Developer-First Approach:** Built specifically for developers with easy integration
+2. **AI Integration:** Native support for AI voice agents and generative AI features
+3. **Low Latency:** 150ms worldwide latency with global mesh deployment
+4. **Comprehensive SDK Support:** Native SDKs for all major platforms
+5. **Flexible Integration:** Both API and SDK options for customization
+6. **Indian Innovation:** Proudly built in India (Surat, Gujarat)
+7. **Affordable Pricing:** Free tier with 10,000 minutes monthly
+8. **Enterprise Support:** 24/7 support with 99.99% uptime SLA
+
+---
+
+## Future Direction
+
+VideoSDK is focused on building the world's most reliable live video infrastructure powered by Generative AI. The company continues to expand its AI capabilities, particularly in voice agents, while maintaining its commitment to developer-friendly tools and ultra-low latency performance.
+
+---
+
+## Contact & Resources
+
+- **Website:** https://www.videosdk.live/
+- **Documentation:** https://docs.videosdk.live/
+- **About Us:** https://www.videosdk.live/about-us
+- **LinkedIn:** https://www.linkedin.com/company/video-sdk
+- **GitHub:** Available for code examples and samples
+- **Sign Up:** Free email signup at /signup-email
+
+---
+
+## Summary
+
+VideoSDK is a Surat-based technology company founded in 2019 by Arjun Kava and Sagar Kava that has raised $1.2M in seed funding. The company provides developers with comprehensive real-time communication infrastructure, including video/audio calling, live streaming, and AI voice agents. With support for 40+ countries, 99.99% uptime, and 150ms worldwide latency, VideoSDK serves 300+ global businesses with a developer-first approach. The platform offers native SDKs for all major platforms, free tier access with 10,000 monthly minutes, and specialized capabilities in AI-powered voice agents for various industries including healthcare, BPO, e-commerce, and customer service.
