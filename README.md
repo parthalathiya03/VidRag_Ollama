@@ -58,6 +58,21 @@ pip install -r requirements.txt
 
 ### 4. Set up your Local Ollama model 
 
+## 🧠 Setting Up Ollama Models Locally
+
+Ollama enables you to run open-source large language models (LLMs) directly on your machine. Follow these steps to get started:
+
+### 1. Install Ollama
+
+- **macOS**: Use Homebrew:
+```bash
+brew install ollama
+
+After installation, start the Ollama server:
+ollama serve
+ollama pull <model-name>
+ollama run <model-name>
+
 
 ## Running the Voice Agent
 
