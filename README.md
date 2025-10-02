@@ -16,6 +16,13 @@ A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ol
 ---
 
 ## Getting Started
+## 🎥 Demo Videos
+
+### ▶️ Demo Video 1
+[![Watch Video 1](https://img.shields.io/badge/Watch-Video%201-red?logo=google-drive)](https://drive.google.com/file/d/1zOeQxBnv7vyzbQZZvfn74adXN-NYZB-4/view?usp=sharing)
+
+### ▶️ Demo Video 2
+[![Watch Video 2](https://img.shields.io/badge/Watch-Video%202-blue?logo=google-drive)](https://drive.google.com/file/d/1s7yLRnpxfnZ_g3drANB6oXC7IGobisFR/view?usp=sharing)
 
 ### 1. Clone the repository
 
