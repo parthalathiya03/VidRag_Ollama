@@ -7,7 +7,7 @@ A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ol
 ## Features
 
 - Voice-enabled AI agent using **STT → RAG → TTS**
-- Real-time **speech-to-text ** and **text-to-speech**
+- Real-time **speech-to-text** and **text-to-speech**
 - Local knowledge retrieval from `.txt` documents using **FAISS**
 - Fallback to **Ollama** if documents are not relevant
 - Real-time logging of queries, RAG retrieval, and responses
