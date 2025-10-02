@@ -16,15 +16,13 @@ A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ol
 ---
 
 ## Getting Started
-## 🎬 VidRag_Ollama — Live Demonstrations
+## 🎬 Project Demonstration
 
-Here are walkthrough videos demonstrating **VidRag_Ollama**, a Voice-Enabled RAG AI Agent built using **Ollama**:
+Experience **VidRag_Ollama** — a voice-enabled Retrieval-Augmented Generation (RAG) AI Agent built using **Ollama**.  
+These videos showcase how the agent processes **speech input**, retrieves local context, and responds intelligently using **local knowledge** or **Ollama fallback**.
 
-### 🔹 Voice Query & Response Flow with local RAG Retrieval in Action
-
-[![Watch Demo 1](https://img.shields.io/badge/Watch-Voice%20Interaction%20Demo-red?logo=google-drive)](https://drive.google.com/file/d/1zOeQxBnv7vyzbQZZvfn74adXN-NYZB-4/view?usp=sharing)
-
-[![Watch Demo 2](https://img.shields.io/badge/Watch-RAG%20Pipeline%20Demo-blue?logo=google-drive)](https://drive.google.com/file/d/1s7yLRnpxfnZ_g3drANB6oXC7IGobisFR/view?usp=sharing)
+- 🎤 [Voice Interaction with RAG Pipeline Demo 1](https://drive.google.com/file/d/1zOeQxBnv7vyzbQZZvfn74adXN-NYZB-4/view?usp=sharing)
+- 🧠 [Voice Interaction with RAG Pipeline Demo 2](https://drive.google.com/file/d/1s7yLRnpxfnZ_g3drANB6oXC7IGobisFR/view?usp=sharing)
 
 
 ### 1. Clone the repository
