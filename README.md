@@ -16,7 +16,6 @@ A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ol
 ---
 
 ## Getting Started
-
 ## 🎬 VidRag_Ollama — Live Demonstrations
 
 Here are walkthrough videos demonstrating **VidRag_Ollama**, a Voice-Enabled RAG AI Agent built using **Ollama**:
