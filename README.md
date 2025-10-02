@@ -7,9 +7,9 @@ A **voice-enabled Retrieval-Augmented Generation (RAG) system** built using **Ol
 ## Features
 
 - Voice-enabled AI agent using **STT → RAG → TTS**
-- Real-time **speech-to-text (DeepgramSTT)** and **text-to-speech (ElevenLabsTTS)**
+- Real-time **speech-to-text ** and **text-to-speech**
 - Local knowledge retrieval from `.txt` documents using **FAISS**
-- Fallback to **OpenAI GPT-4o** if documents are not relevant
+- Fallback to **Ollama** if documents are not relevant
 - Real-time logging of queries, RAG retrieval, and responses
 - Seamless interaction flow with agent entry, user message handling, and exit
 
@@ -111,7 +111,7 @@ Open the browser URL shown in the console to interact with the agent.
 
 ### 4. Voice Output (TTS)
 
-- Text is converted to speech via **ElevenLabsTTS**.
+- Text is converted to speech via **SpeechRecognition**.
 - Users hear the response in real-time.
 
 ### 5. Features
