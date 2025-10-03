@@ -4,9 +4,7 @@ import pyttsx3
 import logging
 from rag_pipeline import LocalRAGPipeline
 
-# ------------------------------
-# Configure Logging
-# ------------------------------
+
 logging.basicConfig(
     filename="voice_rag.log",
     level=logging.INFO,
@@ -16,9 +14,6 @@ logging.basicConfig(
 
 logging.info("App started")
 
-# ------------------------------
-# Initialize
-# ------------------------------
 
 st.title("🎙️ Local Voice RAG Assistant with Fallback")
 st.caption("Ask questions from local docs or general knowledge (via Ollama LLaMA3)")
@@ -30,9 +25,7 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 logging.info("Speech recognizer and TTS engine initialized")
 
-# ------------------------------
-# Voice Query
-# ------------------------------
+
 if st.button("🎤 Ask Question by Voice"):
     with sr.Microphone() as source:
         st.write("Listening...")
@@ -53,9 +46,7 @@ if st.button("🎤 Ask Question by Voice"):
             st.error(f"Speech recognition failed: {e}")
             logging.error(f"Speech recognition error: {e}")
 
-# ------------------------------
-# Text Query
-# ------------------------------
+
 text_query = st.text_input("Or type your question:")
 if st.button("Ask"):
     if text_query:
