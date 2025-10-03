@@ -7,11 +7,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.schema import Document
 
-# ------------------------------
-# Configure Logging
-# ------------------------------
 logging.basicConfig(
-    filename="rag_pipeline.log",  # Log file
+    filename="rag_pipeline.log",  
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
