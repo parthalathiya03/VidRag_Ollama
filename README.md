@@ -78,7 +78,7 @@ After installation, start the Ollama server:
 ollama serve
 ollama pull <model-name>
 ollama run <model-name>
-
+```
 
 ### 5. Running the Voice Agent
 
