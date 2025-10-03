@@ -1,20 +1,16 @@
-streamlit
 langchain
-faiss-cpu
 openai
 python-dotenv
 gTTS
 SpeechRecognition
 pydub
 streamlit
-faiss-cpu
 sentence-transformers
 transformers
 pyttsx3
 SpeechRecognition
 pydub
 torch
-
 streamlit==1.31.0
 python-dotenv==1.0.0
 deepgram-sdk==3.0.0
@@ -24,13 +20,5 @@ soundfile==0.12.1
 numpy==1.24.3
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4
-
-# Optional: For better performance on Mac
 # faiss-gpu==1.7.4  # If you have GPU
-
-# Document processing
 pypdf==3.17.4
-
-# NOTE: Here we need to install Ollama separately so that we can run locally on our device 
-# Visit: https://ollama.ai
-# Then run: ollama pull llama3 
